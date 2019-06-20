@@ -37,8 +37,6 @@ namespace Bookstore
 
             Console.ReadKey();
            
-
-            consoel
            
         }
     }
